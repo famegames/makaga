@@ -45,7 +45,7 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_test</room>
-    <room>rooms\room1</room>
+    <room>rooms\rm_main</room>
   </rooms>
   <constants number="40">
     <constant name="NETWORK_CONNECT">0</constant>
